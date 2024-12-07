@@ -32,4 +32,4 @@ For questions or concerns, feel free to reach out to us:
 
 - 📧 **Email:** [administrator@webveli.com](mailto:administrator@webveli.com)
 - 🌐 **Website:** [Webveli.com](https://webveli.com)
-- 🌍 **Facebook:** [Webveli Wallet](https://www.facebook.com/webveliwallet)
+- 🌍 **Facebook:** [Webveli Wallet](https://www.facebook.com/walletveli)
